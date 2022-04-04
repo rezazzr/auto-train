@@ -5,7 +5,7 @@ from typing import Any
 import numpy as np
 from torch.utils.tensorboard import SummaryWriter
 
-from base import Loggers
+from .base import Loggers
 
 
 class TensorboardLogger(Loggers):

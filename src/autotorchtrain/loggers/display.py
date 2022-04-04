@@ -2,7 +2,7 @@ import pprint
 from typing import Any
 
 import numpy as np
-from base import Loggers
+from .base import Loggers
 from prettytable import PrettyTable
 
 
