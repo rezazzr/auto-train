@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "autotorchtrain"
-version = "0.1.2"
+version = "0.1.3"
 description = "A project aiming at simplifying training of PyTorch models and provide support for the continual learning setting."
 authors = ["Reza Davari <rezazzr@hotmail.com>"]
 
